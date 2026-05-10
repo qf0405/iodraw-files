@@ -53,7 +53,7 @@
         </mxCell>
         <mxCell id="rWZeK4EFvowcuqHQReUD-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rWZeK4EFvowcuqHQReUD-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="750" y="461.14285714285734" as="targetPoint" />
+            <mxPoint x="750" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rWZeK4EFvowcuqHQReUD-14" value="是否合规？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
