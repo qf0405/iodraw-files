@@ -66,6 +66,11 @@
             <mxPoint x="369.9999999999998" y="550.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="rWZeK4EFvowcuqHQReUD-55" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rWZeK4EFvowcuqHQReUD-47">
+          <mxGeometry x="-0.0058" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rWZeK4EFvowcuqHQReUD-14" value="是否合规？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="532" y="431" width="150" height="60" as="geometry" />
         </mxCell>
