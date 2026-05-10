@@ -14,7 +14,7 @@
           <mxGeometry x="319" y="730" width="123" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rWZeK4EFvowcuqHQReUD-10" value="填写信息上传素材" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="312.5" y="210" width="135" height="50" as="geometry" />
+          <mxGeometry x="307.5" y="210" width="135" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rWZeK4EFvowcuqHQReUD-13" value="是否登录？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="310" width="150" height="60" as="geometry" />
@@ -22,14 +22,8 @@
         <mxCell id="rWZeK4EFvowcuqHQReUD-14" value="是否合规？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="400" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rWZeK4EFvowcuqHQReUD-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rWZeK4EFvowcuqHQReUD-1" target="rWZeK4EFvowcuqHQReUD-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="378" y="180" as="sourcePoint" />
-            <mxPoint x="374" y="730" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rWZeK4EFvowcuqHQReUD-4" value="检验Token" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="310" width="124" height="60" as="geometry" />
+          <mxGeometry x="307.5" y="310" width="124" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rWZeK4EFvowcuqHQReUD-5" value="检验上传格式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="317" y="410" width="123" height="60" as="geometry" />
