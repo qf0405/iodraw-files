@@ -51,7 +51,7 @@
         <mxCell id="jkhMNFUdhqPGSV5kp1DL-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jkhMNFUdhqPGSV5kp1DL-1" target="WIyWlLk6GJQsqaUBKTNV-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jkhMNFUdhqPGSV5kp1DL-1" value="填写信息上传素材" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="jkhMNFUdhqPGSV5kp1DL-1" value="检验Token" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="160" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jkhMNFUdhqPGSV5kp1DL-3" value="检验素材格式" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
