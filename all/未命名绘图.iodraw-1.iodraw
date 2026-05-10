@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rWZeK4EFvowcuqHQReUD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rWZeK4EFvowcuqHQReUD-6" target="rWZeK4EFvowcuqHQReUD-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="rWZeK4EFvowcuqHQReUD-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="130" width="125" height="50" as="geometry" />
         </mxCell>
@@ -34,20 +31,8 @@
         <mxCell id="rWZeK4EFvowcuqHQReUD-4" value="检验Token" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="310" width="124" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rWZeK4EFvowcuqHQReUD-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rWZeK4EFvowcuqHQReUD-4" target="rWZeK4EFvowcuqHQReUD-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="377" y="370" as="sourcePoint" />
-            <mxPoint x="374" y="730" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rWZeK4EFvowcuqHQReUD-5" value="检验上传格式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="317" y="410" width="123" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="rWZeK4EFvowcuqHQReUD-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rWZeK4EFvowcuqHQReUD-5" target="rWZeK4EFvowcuqHQReUD-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="379" y="470" as="sourcePoint" />
-            <mxPoint x="374" y="730" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="rWZeK4EFvowcuqHQReUD-6" value="上传minIO存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="316" y="510" width="123" height="60" as="geometry" />
