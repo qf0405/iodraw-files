@@ -31,6 +31,9 @@
         <mxCell id="rWZeK4EFvowcuqHQReUD-11" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="500" y="250" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rWZeK4EFvowcuqHQReUD-12" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="150" y="180" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
