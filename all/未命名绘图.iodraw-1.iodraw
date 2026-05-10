@@ -32,7 +32,7 @@
           <mxGeometry x="307.5" y="431" width="123" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rWZeK4EFvowcuqHQReUD-6" value="上传minIO存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="302.5" y="537" width="127.5" height="63" as="geometry" />
+          <mxGeometry x="306.25" y="550" width="127.5" height="63" as="geometry" />
         </mxCell>
         <mxCell id="rWZeK4EFvowcuqHQReUD-22" value="上传成功更新ES" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="306.5" y="780" width="135" height="50" as="geometry" />
