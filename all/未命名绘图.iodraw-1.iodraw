@@ -51,6 +51,11 @@
         <mxCell id="rWZeK4EFvowcuqHQReUD-13" value="是否登录？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="310" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rWZeK4EFvowcuqHQReUD-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rWZeK4EFvowcuqHQReUD-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="461.14285714285734" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rWZeK4EFvowcuqHQReUD-14" value="是否合规？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="431" width="150" height="60" as="geometry" />
         </mxCell>
