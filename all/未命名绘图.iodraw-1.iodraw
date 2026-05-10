@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rWZeK4EFvowcuqHQReUD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rWZeK4EFvowcuqHQReUD-6" target="rWZeK4EFvowcuqHQReUD-25">
+        <mxCell id="rWZeK4EFvowcuqHQReUD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370.0000000000002" y="130" as="sourcePoint" />
-            <mxPoint x="374" y="869.9999999999998" as="targetPoint" />
+            <mxPoint x="375.0000000000002" y="130" as="sourcePoint" />
+            <mxPoint x="379" y="919.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rWZeK4EFvowcuqHQReUD-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -31,6 +31,9 @@
         <mxCell id="rWZeK4EFvowcuqHQReUD-5" value="检验上传格式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="307.5" y="431" width="123" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rWZeK4EFvowcuqHQReUD-6" value="上传minIO存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="312.5" y="537" width="123" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="rWZeK4EFvowcuqHQReUD-22" value="上传成功更新ES" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="306.5" y="780" width="135" height="50" as="geometry" />
         </mxCell>
@@ -42,15 +45,6 @@
         </mxCell>
         <mxCell id="rWZeK4EFvowcuqHQReUD-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.068;entryY=0.479;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rWZeK4EFvowcuqHQReUD-4" target="rWZeK4EFvowcuqHQReUD-13">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rWZeK4EFvowcuqHQReUD-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="rWZeK4EFvowcuqHQReUD-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370.0000000000002" y="130" as="sourcePoint" />
-            <mxPoint x="374" y="920" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rWZeK4EFvowcuqHQReUD-6" value="上传minIO存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="306.5" y="537" width="123" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
