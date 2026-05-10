@@ -14,10 +14,10 @@
           <mxGeometry x="320" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rWZeK4EFvowcuqHQReUD-5" value="检验上传格式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="400" width="130" height="60" as="geometry" />
+          <mxGeometry x="320" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rWZeK4EFvowcuqHQReUD-6" value="上传minIO存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="490" width="110" height="40" as="geometry" />
+          <mxGeometry x="320" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rWZeK4EFvowcuqHQReUD-7" value="待审核状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="570" width="110" height="40" as="geometry" />
