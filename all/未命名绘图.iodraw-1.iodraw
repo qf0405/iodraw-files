@@ -26,7 +26,7 @@
           <mxGeometry x="320" y="650" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rWZeK4EFvowcuqHQReUD-10" value="填写信息上传素材" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="220" width="115" height="40" as="geometry" />
+          <mxGeometry x="300" y="220" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
