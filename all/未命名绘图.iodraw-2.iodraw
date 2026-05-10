@@ -15,6 +15,11 @@
         <mxCell id="tgxp2dIBmUyUvZNFjJO2-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="300" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tgxp2dIBmUyUvZNFjJO2-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tgxp2dIBmUyUvZNFjJO2-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tgxp2dIBmUyUvZNFjJO2-2" value="分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="540" width="80" height="60" as="geometry" />
         </mxCell>
@@ -166,18 +171,6 @@
         </mxCell>
         <mxCell id="tgxp2dIBmUyUvZNFjJO2-44" value="父子分类" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="680" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tgxp2dIBmUyUvZNFjJO2-49" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.646;exitY=1.022;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tgxp2dIBmUyUvZNFjJO2-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="680" as="sourcePoint" />
-            <mxPoint x="300" y="660" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="410" y="640" />
-              <mxPoint x="450" y="680" />
-              <mxPoint x="380" y="680" />
-              <mxPoint x="400" y="630" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
