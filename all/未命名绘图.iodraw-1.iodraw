@@ -31,8 +31,8 @@
         <mxCell id="rWZeK4EFvowcuqHQReUD-13" value="是否登录？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="310" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rWZeK4EFvowcuqHQReUD-14" value="是否登录？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="320" width="150" height="60" as="geometry" />
+        <mxCell id="rWZeK4EFvowcuqHQReUD-14" value="是否合规？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="400" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
