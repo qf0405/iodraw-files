@@ -26,6 +26,11 @@
         <mxCell id="rWZeK4EFvowcuqHQReUD-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="rWZeK4EFvowcuqHQReUD-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="605" y="390" />
+              <mxPoint x="370" y="390" />
+              <mxPoint x="370" y="410" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rWZeK4EFvowcuqHQReUD-13" value="是否登录？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
