@@ -7,8 +7,8 @@
         <mxCell id="PbKsjOb7-WrWa3tp2imR-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;基于SpringBoot+Vue的素材分享平台的设计与实现&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="180" width="270" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="PbKsjOb7-WrWa3tp2imR-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="240" width="50" height="100" as="geometry" />
+        <mxCell id="PbKsjOb7-WrWa3tp2imR-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="405" y="220" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
