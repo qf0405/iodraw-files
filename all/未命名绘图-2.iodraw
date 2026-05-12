@@ -297,7 +297,7 @@
             <mxPoint x="753" y="306" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-GDIHtH92OOw_wtALCBi-33" value="上传" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-GDIHtH92OOw_wtALCBi-33" value="发起" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="289" y="415" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
