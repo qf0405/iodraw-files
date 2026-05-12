@@ -39,6 +39,9 @@
         <mxCell id="tgxp2dIBmUyUvZNFjJO2-2" value="分类" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="359" y="699" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-GDIHtH92OOw_wtALCBi-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tgxp2dIBmUyUvZNFjJO2-3" target="-GDIHtH92OOw_wtALCBi-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tgxp2dIBmUyUvZNFjJO2-3" value="素材" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="629" y="496" width="80" height="60" as="geometry" />
         </mxCell>
@@ -236,7 +239,7 @@
           <mxGeometry x="493" y="289" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-GDIHtH92OOw_wtALCBi-14" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="635" y="333" width="100" height="60" as="geometry" />
+          <mxGeometry x="632" y="364" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
