@@ -136,7 +136,7 @@
         <mxCell id="le0WgJZ-IOyEjZf5SGLk-28" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="691.5" y="440" width="45" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="le0WgJZ-IOyEjZf5SGLk-29" value="分类管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="le0WgJZ-IOyEjZf5SGLk-29" value="用户删除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="471" width="21" height="77" as="geometry" />
         </mxCell>
         <mxCell id="le0WgJZ-IOyEjZf5SGLk-30" value="专题管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
