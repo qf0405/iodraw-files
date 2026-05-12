@@ -16,6 +16,9 @@
         <mxCell id="b6ENj3sWJePu_O6PGUxR-4" value="用户输入" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="359" y="240" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="b6ENj3sWJePu_O6PGUxR-5" value="查询ES{IK分词}" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="400" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
