@@ -64,7 +64,7 @@
         <mxCell id="le0WgJZ-IOyEjZf5SGLk-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="229" y="442" width="45" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="le0WgJZ-IOyEjZf5SGLk-6" value="个人信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="le0WgJZ-IOyEjZf5SGLk-6" value="私信处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="218" y="473" width="21" height="77" as="geometry" />
         </mxCell>
         <mxCell id="le0WgJZ-IOyEjZf5SGLk-7" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
