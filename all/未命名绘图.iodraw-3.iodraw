@@ -26,10 +26,10 @@
           <mxGeometry x="215" y="350" width="25" height="90" as="geometry" />
         </mxCell>
         <mxCell id="PbKsjOb7-WrWa3tp2imR-9" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="350" width="25" height="90" as="geometry" />
+          <mxGeometry x="259" y="350" width="25" height="90" as="geometry" />
         </mxCell>
         <mxCell id="PbKsjOb7-WrWa3tp2imR-10" value="素材操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="350" width="25" height="90" as="geometry" />
+          <mxGeometry x="316" y="350" width="25" height="90" as="geometry" />
         </mxCell>
         <mxCell id="PbKsjOb7-WrWa3tp2imR-11" value="用户交互" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="350" width="25" height="90" as="geometry" />
