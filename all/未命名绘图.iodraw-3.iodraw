@@ -35,16 +35,13 @@
           <mxGeometry x="360" y="350" width="25" height="90" as="geometry" />
         </mxCell>
         <mxCell id="PbKsjOb7-WrWa3tp2imR-12" value="注册登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="225" y="360" width="25" height="90" as="geometry" />
+          <mxGeometry x="550" y="350" width="25" height="90" as="geometry" />
         </mxCell>
         <mxCell id="PbKsjOb7-WrWa3tp2imR-13" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="360" width="25" height="90" as="geometry" />
+          <mxGeometry x="595" y="350" width="25" height="90" as="geometry" />
         </mxCell>
         <mxCell id="PbKsjOb7-WrWa3tp2imR-14" value="素材操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="360" width="25" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="PbKsjOb7-WrWa3tp2imR-15" value="用户交互" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="360" width="25" height="90" as="geometry" />
+          <mxGeometry x="645" y="350" width="25" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
