@@ -13,8 +13,11 @@
         <mxCell id="PbKsjOb7-WrWa3tp2imR-4" value="用户模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="280" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PbKsjOb7-WrWa3tp2imR-5" value="用户模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PbKsjOb7-WrWa3tp2imR-5" value="管理员模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="280" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PbKsjOb7-WrWa3tp2imR-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="65" y="258" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
