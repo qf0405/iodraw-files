@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PbKsjOb7-WrWa3tp2imR-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PbKsjOb7-WrWa3tp2imR-1" value="基于SpringBoot+Vue的素材分享平台的设计与实现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="180" width="290" height="80" as="geometry" />
         </mxCell>
       </root>
