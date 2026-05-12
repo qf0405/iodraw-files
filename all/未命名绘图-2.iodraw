@@ -270,6 +270,9 @@
             <mxPoint x="367" y="637" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-GDIHtH92OOw_wtALCBi-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-GDIHtH92OOw_wtALCBi-25" target="-GDIHtH92OOw_wtALCBi-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-GDIHtH92OOw_wtALCBi-25" value="收藏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="297" y="520" width="80" height="60" as="geometry" />
         </mxCell>
@@ -299,6 +302,9 @@
         </mxCell>
         <mxCell id="-GDIHtH92OOw_wtALCBi-33" value="发起" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="289" y="415" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-GDIHtH92OOw_wtALCBi-34" value="被收藏" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="436" y="511" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
