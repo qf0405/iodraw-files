@@ -17,10 +17,10 @@
           <mxGeometry x="560" y="270" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PbKsjOb7-WrWa3tp2imR-8" value="注册登录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="215" y="350" width="25" height="90" as="geometry" />
+          <mxGeometry x="146" y="350" width="25" height="90" as="geometry" />
         </mxCell>
         <mxCell id="PbKsjOb7-WrWa3tp2imR-9" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="259" y="350" width="25" height="90" as="geometry" />
+          <mxGeometry x="251" y="361" width="25" height="90" as="geometry" />
         </mxCell>
         <mxCell id="PbKsjOb7-WrWa3tp2imR-10" value="素材操作" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="316" y="350" width="25" height="90" as="geometry" />
@@ -53,7 +53,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="le0WgJZ-IOyEjZf5SGLk-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="202" y="440" width="45" height="31" as="geometry" />
+          <mxGeometry x="142" y="451" width="45" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
