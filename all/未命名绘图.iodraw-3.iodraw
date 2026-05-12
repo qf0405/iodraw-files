@@ -11,10 +11,10 @@
           <mxGeometry x="301.88" y="230" width="306.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PbKsjOb7-WrWa3tp2imR-4" value="用户模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="280" width="90" height="40" as="geometry" />
+          <mxGeometry x="260" y="270" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PbKsjOb7-WrWa3tp2imR-5" value="管理员模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="280" width="90" height="40" as="geometry" />
+          <mxGeometry x="560" y="270" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PbKsjOb7-WrWa3tp2imR-6" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;注册登录、个人中心、素材操作、用户交互&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-75" y="258" width="330" height="30" as="geometry" />
@@ -22,7 +22,7 @@
         <mxCell id="PbKsjOb7-WrWa3tp2imR-7" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;素材管控、分类专题管理、用户管理&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-220" y="338" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PbKsjOb7-WrWa3tp2imR-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PbKsjOb7-WrWa3tp2imR-8" value="注册登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="350" width="40" height="200" as="geometry" />
         </mxCell>
       </root>
