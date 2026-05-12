@@ -71,9 +71,9 @@
           <mxGeometry x="269" y="474" width="21" height="77" as="geometry" />
         </mxCell>
         <mxCell id="le0WgJZ-IOyEjZf5SGLk-8" value="素材查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="239" y="477" width="21" height="77" as="geometry" />
+          <mxGeometry x="239" y="473" width="21" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="le0WgJZ-IOyEjZf5SGLk-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="le0WgJZ-IOyEjZf5SGLk-8">
+        <mxCell id="le0WgJZ-IOyEjZf5SGLk-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="le0WgJZ-IOyEjZf5SGLk-8" target="PbKsjOb7-WrWa3tp2imR-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="253" y="473" as="sourcePoint" />
             <mxPoint x="253" y="440" as="targetPoint" />
