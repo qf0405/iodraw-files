@@ -14,7 +14,7 @@
           <mxGeometry x="594" y="117.5" width="83" height="44" as="geometry" />
         </mxCell>
         <mxCell id="F3W2nCUssthIL3QrlrU9-4" value="收藏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="403" y="220" width="83" height="44" as="geometry" />
+          <mxGeometry x="401" y="225" width="83" height="44" as="geometry" />
         </mxCell>
         <mxCell id="F3W2nCUssthIL3QrlrU9-5" value="分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="559" y="315" width="83" height="44" as="geometry" />
@@ -91,6 +91,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F3W2nCUssthIL3QrlrU9-25" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F3W2nCUssthIL3QrlrU9-24">
+          <mxGeometry x="-0.0328" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F3W2nCUssthIL3QrlrU9-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="495" y="175" as="sourcePoint" />
+            <mxPoint x="594" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F3W2nCUssthIL3QrlrU9-27" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F3W2nCUssthIL3QrlrU9-26">
           <mxGeometry x="-0.0328" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
