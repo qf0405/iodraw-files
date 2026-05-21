@@ -5,16 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="F3W2nCUssthIL3QrlrU9-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="346" y="121" width="83" height="44" as="geometry" />
+          <mxGeometry x="189" y="118" width="83" height="44" as="geometry" />
         </mxCell>
         <mxCell id="F3W2nCUssthIL3QrlrU9-2" value="素材" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="216" y="169" width="83" height="44" as="geometry" />
+          <mxGeometry x="189" y="348" width="83" height="44" as="geometry" />
         </mxCell>
         <mxCell id="F3W2nCUssthIL3QrlrU9-3" value="评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="491" y="172" width="83" height="44" as="geometry" />
         </mxCell>
         <mxCell id="F3W2nCUssthIL3QrlrU9-4" value="收藏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="293" y="310" width="83" height="44" as="geometry" />
+          <mxGeometry x="358" y="379" width="83" height="44" as="geometry" />
         </mxCell>
         <mxCell id="F3W2nCUssthIL3QrlrU9-5" value="分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="482" y="292" width="83" height="44" as="geometry" />
