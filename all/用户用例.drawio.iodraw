@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram id="ZZW7UXsdU8rsO2K1Qc55" name="第 1 页">
-    <mxGraphModel dx="452520" dy="270585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="459136" dy="275261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="14" value="" style="endArrow=0;html=1" edge="1" />
         <mxCell id="1" parent="14" />
@@ -89,12 +89,6 @@
             <mxPoint x="-4072" y="-2605" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zhKiyPDS9_3DDKRSbUfa-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="zhKiyPDS9_3DDKRSbUfa-43" target="zhKiyPDS9_3DDKRSbUfa-47" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-4212" y="-2550" as="sourcePoint" />
-            <mxPoint x="-4072" y="-2535" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="zhKiyPDS9_3DDKRSbUfa-43" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="-4230" y="-2560" width="30" height="60" as="geometry" />
         </mxCell>
@@ -114,9 +108,6 @@
         </mxCell>
         <mxCell id="zhKiyPDS9_3DDKRSbUfa-46" value="登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-4072" y="-2660" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="zhKiyPDS9_3DDKRSbUfa-47" value="个人中心" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-4100" y="-2410" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zhKiyPDS9_3DDKRSbUfa-48" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endFill=0;" edge="1" source="zhKiyPDS9_3DDKRSbUfa-51" target="zhKiyPDS9_3DDKRSbUfa-46" parent="1">
           <mxGeometry x="0.1588" y="-5" width="160" relative="1" as="geometry">
@@ -154,11 +145,11 @@
             <mxPoint x="-3972" y="-2475" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zhKiyPDS9_3DDKRSbUfa-56" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.023;entryY=0.616;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" source="zhKiyPDS9_3DDKRSbUfa-57" target="zhKiyPDS9_3DDKRSbUfa-47" parent="1">
+        <mxCell id="zhKiyPDS9_3DDKRSbUfa-56" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.611;entryY=1.044;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" source="zhKiyPDS9_3DDKRSbUfa-57" target="zhKiyPDS9_3DDKRSbUfa-46" parent="1">
           <mxGeometry x="0.1632" y="-5" width="160" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="-3882" y="-2390" as="sourcePoint" />
-            <mxPoint x="-3972" y="-2465" as="targetPoint" />
+            <mxPoint x="-3997.6999999999534" y="-2379.1999999999534" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zhKiyPDS9_3DDKRSbUfa-57" value="编辑上传素材" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -168,7 +159,7 @@
           <mxGeometry x="-3852" y="-2570" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zhKiyPDS9_3DDKRSbUfa-59" value="注册" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-4080" y="-2480" width="100" height="50" as="geometry" />
+          <mxGeometry x="-4080" y="-2460" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zhKiyPDS9_3DDKRSbUfa-60" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zhKiyPDS9_3DDKRSbUfa-43" target="zhKiyPDS9_3DDKRSbUfa-59">
           <mxGeometry relative="1" as="geometry">
