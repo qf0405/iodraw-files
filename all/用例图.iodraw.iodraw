@@ -145,7 +145,7 @@
           <mxGeometry x="-3408" y="-1680" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="02Lim3pxmdkSdYVyXieh-31" value="编辑分类/专题" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3408" y="-1600" width="100" height="50" as="geometry" />
+          <mxGeometry x="-3408" y="-1624" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="02Lim3pxmdkSdYVyXieh-32" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="02Lim3pxmdkSdYVyXieh-31" target="02Lim3pxmdkSdYVyXieh-24" edge="1">
           <mxGeometry x="0.1628" y="-5" width="160" relative="1" as="geometry">
@@ -162,7 +162,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="02Lim3pxmdkSdYVyXieh-34" value="删除分类/专题" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3408" y="-1520" width="100" height="50" as="geometry" />
+          <mxGeometry x="-3408" y="-1539" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="02Lim3pxmdkSdYVyXieh-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="PSCwOPGeVCL7ajWcWvgx-1" target="02Lim3pxmdkSdYVyXieh-36" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -181,7 +181,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="02Lim3pxmdkSdYVyXieh-38" value="查看用户" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3408" y="-1450" width="100" height="50" as="geometry" />
+          <mxGeometry x="-3408" y="-1444" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="02Lim3pxmdkSdYVyXieh-39" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.001;entryY=0.68;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="02Lim3pxmdkSdYVyXieh-40" target="02Lim3pxmdkSdYVyXieh-36" edge="1">
           <mxGeometry x="0.1628" y="-5" width="160" relative="1" as="geometry">
@@ -201,7 +201,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="02Lim3pxmdkSdYVyXieh-42" value="删除用户" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3408" y="-1310" width="100" height="50" as="geometry" />
+          <mxGeometry x="-3408" y="-1324" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PSCwOPGeVCL7ajWcWvgx-1" value="登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3840" y="-1600" width="100" height="50" as="geometry" />
