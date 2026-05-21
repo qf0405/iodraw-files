@@ -17,7 +17,7 @@
           <mxGeometry x="401" y="225" width="83" height="44" as="geometry" />
         </mxCell>
         <mxCell id="F3W2nCUssthIL3QrlrU9-5" value="分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="616" y="340" width="83" height="44" as="geometry" />
+          <mxGeometry x="597" y="340" width="83" height="44" as="geometry" />
         </mxCell>
         <mxCell id="F3W2nCUssthIL3QrlrU9-6" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="601" y="541" width="83" height="44" as="geometry" />
@@ -129,7 +129,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F3W2nCUssthIL3QrlrU9-32" value="属于" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="684" y="356" width="105" height="47" as="geometry" />
+          <mxGeometry x="489" y="293" width="105" height="47" as="geometry" />
         </mxCell>
         <mxCell id="F3W2nCUssthIL3QrlrU9-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="F3W2nCUssthIL3QrlrU9-4" target="F3W2nCUssthIL3QrlrU9-11">
           <mxGeometry relative="1" as="geometry">
