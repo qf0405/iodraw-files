@@ -32,7 +32,7 @@
           <mxGeometry x="285" y="180" width="105" height="47" as="geometry" />
         </mxCell>
         <mxCell id="F3W2nCUssthIL3QrlrU9-11" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="642" y="203" width="105" height="47" as="geometry" />
+          <mxGeometry x="511" y="180" width="105" height="47" as="geometry" />
         </mxCell>
         <mxCell id="F3W2nCUssthIL3QrlrU9-12" value="被收藏" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="298" y="293" width="105" height="47" as="geometry" />
