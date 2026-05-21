@@ -228,6 +228,34 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="F3W2nCUssthIL3QrlrU9-53" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="350" width="105" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="F3W2nCUssthIL3QrlrU9-54" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="411" y="449" width="83" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="F3W2nCUssthIL3QrlrU9-55" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="F3W2nCUssthIL3QrlrU9-53" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="461" y="314" as="sourcePoint" />
+            <mxPoint x="453" y="279" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F3W2nCUssthIL3QrlrU9-56" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F3W2nCUssthIL3QrlrU9-55">
+          <mxGeometry x="-0.0328" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F3W2nCUssthIL3QrlrU9-57" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="F3W2nCUssthIL3QrlrU9-54" target="F3W2nCUssthIL3QrlrU9-53" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="505" y="430" as="sourcePoint" />
+            <mxPoint x="471" y="394" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F3W2nCUssthIL3QrlrU9-58" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F3W2nCUssthIL3QrlrU9-57">
+          <mxGeometry x="0.0782" y="4" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
