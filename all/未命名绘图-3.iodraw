@@ -38,10 +38,10 @@
           <mxGeometry x="295" y="190" width="105" height="47" as="geometry" />
         </mxCell>
         <mxCell id="F3W2nCUssthIL3QrlrU9-12" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="200" width="105" height="47" as="geometry" />
+          <mxGeometry x="313" y="249" width="105" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="F3W2nCUssthIL3QrlrU9-13" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="210" width="105" height="47" as="geometry" />
+        <mxCell id="F3W2nCUssthIL3QrlrU9-13" value="被评论" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="317" width="105" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
