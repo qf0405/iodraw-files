@@ -26,7 +26,7 @@
           <mxGeometry x="-130" y="238" width="393" height="31" as="geometry" />
         </mxCell>
         <mxCell id="F3W2nCUssthIL3QrlrU9-8" value="上传" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="174" y="245" width="105" height="47" as="geometry" />
+          <mxGeometry x="180" y="244" width="105" height="47" as="geometry" />
         </mxCell>
         <mxCell id="F3W2nCUssthIL3QrlrU9-9" value="发表" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="115" width="105" height="47" as="geometry" />
@@ -42,6 +42,17 @@
         </mxCell>
         <mxCell id="F3W2nCUssthIL3QrlrU9-13" value="被评论" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="317" width="105" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="F3W2nCUssthIL3QrlrU9-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="382" y="359" as="sourcePoint" />
+            <mxPoint x="493" y="319" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F3W2nCUssthIL3QrlrU9-15" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F3W2nCUssthIL3QrlrU9-14">
+          <mxGeometry x="0.0782" y="4" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
