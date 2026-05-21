@@ -7,7 +7,7 @@
         <mxCell id="F3W2nCUssthIL3QrlrU9-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="189" y="118" width="83" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="F3W2nCUssthIL3QrlrU9-2" value="素材" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F3W2nCUssthIL3QrlrU9-2" value="收藏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="189" y="348" width="83" height="44" as="geometry" />
         </mxCell>
         <mxCell id="F3W2nCUssthIL3QrlrU9-3" value="评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -117,10 +117,10 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F3W2nCUssthIL3QrlrU9-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.156;exitY=0.688;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="F3W2nCUssthIL3QrlrU9-12" target="F3W2nCUssthIL3QrlrU9-2">
+        <mxCell id="F3W2nCUssthIL3QrlrU9-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.156;entryY=0.688;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="F3W2nCUssthIL3QrlrU9-2" target="F3W2nCUssthIL3QrlrU9-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="335" y="329" as="sourcePoint" />
-            <mxPoint x="335" y="392" as="targetPoint" />
+            <mxPoint x="335" y="392" as="sourcePoint" />
+            <mxPoint x="335" y="329" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F3W2nCUssthIL3QrlrU9-31" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F3W2nCUssthIL3QrlrU9-30">
