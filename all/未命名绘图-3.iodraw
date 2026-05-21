@@ -20,7 +20,7 @@
           <mxGeometry x="597" y="348" width="83" height="44" as="geometry" />
         </mxCell>
         <mxCell id="F3W2nCUssthIL3QrlrU9-6" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="504" width="83" height="44" as="geometry" />
+          <mxGeometry x="401" y="439" width="83" height="44" as="geometry" />
         </mxCell>
         <mxCell id="F3W2nCUssthIL3QrlrU9-8" value="发起" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="178" y="238" width="105" height="47" as="geometry" />
@@ -202,6 +202,9 @@
           <mxGeometry x="0.0782" y="4" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="F3W2nCUssthIL3QrlrU9-45" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="411" y="449" width="83" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
