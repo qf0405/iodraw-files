@@ -101,68 +101,68 @@
         <mxCell id="02Lim3pxmdkSdYVyXieh-21" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.908;entryY=0.229;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="02Lim3pxmdkSdYVyXieh-26" target="02Lim3pxmdkSdYVyXieh-23" edge="1">
           <mxGeometry x="0.1603" width="160" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="-3418" y="-1835" as="sourcePoint" />
-            <mxPoint x="-3528" y="-1665" as="targetPoint" />
+            <mxPoint x="-3418" y="-1865" as="sourcePoint" />
+            <mxPoint x="-3528" y="-1695" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="02Lim3pxmdkSdYVyXieh-22" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.986;entryY=0.382;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="02Lim3pxmdkSdYVyXieh-27" target="02Lim3pxmdkSdYVyXieh-23" edge="1">
           <mxGeometry x="0.1628" y="-5" width="160" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="-3428" y="-1740" as="sourcePoint" />
-            <mxPoint x="-3528.0000000000146" y="-1665" as="targetPoint" />
+            <mxPoint x="-3428" y="-1770" as="sourcePoint" />
+            <mxPoint x="-3528.0000000000146" y="-1695" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="02Lim3pxmdkSdYVyXieh-23" value="素材管控" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3628" y="-1720" width="100" height="50" as="geometry" />
+          <mxGeometry x="-3628" y="-1750" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="02Lim3pxmdkSdYVyXieh-24" value="分类与专题管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3628" y="-1550" width="100" height="50" as="geometry" />
+          <mxGeometry x="-3628" y="-1580" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="02Lim3pxmdkSdYVyXieh-25" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.955;entryY=0.676;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="02Lim3pxmdkSdYVyXieh-28" target="02Lim3pxmdkSdYVyXieh-23" edge="1">
           <mxGeometry x="0.1628" y="-5" width="160" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="-3442" y="-1635" as="sourcePoint" />
-            <mxPoint x="-3528.0000000000146" y="-1595" as="targetPoint" />
+            <mxPoint x="-3442" y="-1665" as="sourcePoint" />
+            <mxPoint x="-3528.0000000000146" y="-1625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="02Lim3pxmdkSdYVyXieh-26" value="浏览全部素材" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3408" y="-1850" width="100" height="50" as="geometry" />
+          <mxGeometry x="-3408" y="-1880" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="02Lim3pxmdkSdYVyXieh-27" value="审核待发布素材" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3408" y="-1790" width="100" height="50" as="geometry" />
+          <mxGeometry x="-3408" y="-1820" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="02Lim3pxmdkSdYVyXieh-28" value="处理违规素材" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3408" y="-1720" width="100" height="50" as="geometry" />
+          <mxGeometry x="-3408" y="-1750" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="02Lim3pxmdkSdYVyXieh-29" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.913;entryY=0.249;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="02Lim3pxmdkSdYVyXieh-30" target="02Lim3pxmdkSdYVyXieh-24" edge="1">
           <mxGeometry x="0.1628" y="-5" width="160" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="-3438" y="-1600" as="sourcePoint" />
-            <mxPoint x="-3528" y="-1610" as="targetPoint" />
+            <mxPoint x="-3438" y="-1630" as="sourcePoint" />
+            <mxPoint x="-3528" y="-1640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="02Lim3pxmdkSdYVyXieh-30" value="新增分类/专题" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3408" y="-1650" width="100" height="50" as="geometry" />
+          <mxGeometry x="-3408" y="-1680" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="02Lim3pxmdkSdYVyXieh-31" value="编辑分类/专题" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3408" y="-1570" width="100" height="50" as="geometry" />
+          <mxGeometry x="-3408" y="-1600" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="02Lim3pxmdkSdYVyXieh-32" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="02Lim3pxmdkSdYVyXieh-31" target="02Lim3pxmdkSdYVyXieh-24" edge="1">
           <mxGeometry x="0.1628" y="-5" width="160" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="-3438" y="-1530" as="sourcePoint" />
-            <mxPoint x="-3528" y="-1535" as="targetPoint" />
+            <mxPoint x="-3438" y="-1560" as="sourcePoint" />
+            <mxPoint x="-3528" y="-1565" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="02Lim3pxmdkSdYVyXieh-33" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.934;entryY=0.758;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="02Lim3pxmdkSdYVyXieh-34" target="02Lim3pxmdkSdYVyXieh-24" edge="1">
           <mxGeometry x="0.1628" y="-5" width="160" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="-3438" y="-1450" as="sourcePoint" />
-            <mxPoint x="-3528" y="-1525" as="targetPoint" />
+            <mxPoint x="-3438" y="-1480" as="sourcePoint" />
+            <mxPoint x="-3528" y="-1555" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="02Lim3pxmdkSdYVyXieh-34" value="删除分类/专题" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3408" y="-1490" width="100" height="50" as="geometry" />
+          <mxGeometry x="-3408" y="-1520" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="02Lim3pxmdkSdYVyXieh-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="02Lim3pxmdkSdYVyXieh-20" target="02Lim3pxmdkSdYVyXieh-36" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -171,40 +171,40 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="02Lim3pxmdkSdYVyXieh-36" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3628" y="-1380" width="100" height="50" as="geometry" />
+          <mxGeometry x="-3628" y="-1410" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="02Lim3pxmdkSdYVyXieh-37" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="02Lim3pxmdkSdYVyXieh-38" target="02Lim3pxmdkSdYVyXieh-36" edge="1">
           <mxGeometry x="0.1628" y="-5" width="160" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="-3438" y="-1303" as="sourcePoint" />
-            <mxPoint x="-3535" y="-1400" as="targetPoint" />
+            <mxPoint x="-3438" y="-1333" as="sourcePoint" />
+            <mxPoint x="-3535" y="-1430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="02Lim3pxmdkSdYVyXieh-38" value="查看用户" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3408" y="-1420" width="100" height="50" as="geometry" />
+          <mxGeometry x="-3408" y="-1450" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="02Lim3pxmdkSdYVyXieh-39" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.001;entryY=0.68;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="02Lim3pxmdkSdYVyXieh-40" target="02Lim3pxmdkSdYVyXieh-36" edge="1">
           <mxGeometry x="0.1628" y="-5" width="160" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="-3428" y="-1293" as="sourcePoint" />
-            <mxPoint x="-3518" y="-1345" as="targetPoint" />
+            <mxPoint x="-3428" y="-1323" as="sourcePoint" />
+            <mxPoint x="-3518" y="-1375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="02Lim3pxmdkSdYVyXieh-40" value="修改用户权限" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3408" y="-1350" width="100" height="50" as="geometry" />
+          <mxGeometry x="-3408" y="-1380" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="02Lim3pxmdkSdYVyXieh-41" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.889;entryY=0.733;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="02Lim3pxmdkSdYVyXieh-42" target="02Lim3pxmdkSdYVyXieh-36" edge="1">
           <mxGeometry x="0.1628" y="-5" width="160" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="-3448" y="-1163" as="sourcePoint" />
-            <mxPoint x="-3538" y="-1215" as="targetPoint" />
+            <mxPoint x="-3448" y="-1193" as="sourcePoint" />
+            <mxPoint x="-3538" y="-1245" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="02Lim3pxmdkSdYVyXieh-42" value="删除用户" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3408" y="-1280" width="100" height="50" as="geometry" />
+          <mxGeometry x="-3408" y="-1310" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PSCwOPGeVCL7ajWcWvgx-1" value="素材管控" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-3940" y="-1803" width="100" height="50" as="geometry" />
+          <mxGeometry x="-3920" y="-1760" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
