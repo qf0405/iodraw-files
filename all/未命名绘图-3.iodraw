@@ -34,7 +34,7 @@
         <mxCell id="F3W2nCUssthIL3QrlrU9-10" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="180" width="105" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="F3W2nCUssthIL3QrlrU9-11" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F3W2nCUssthIL3QrlrU9-11" value="属于" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="204" width="105" height="47" as="geometry" />
         </mxCell>
         <mxCell id="F3W2nCUssthIL3QrlrU9-12" value="被收藏" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
