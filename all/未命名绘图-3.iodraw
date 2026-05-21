@@ -203,9 +203,6 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F3W2nCUssthIL3QrlrU9-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F3W2nCUssthIL3QrlrU9-46" target="F3W2nCUssthIL3QrlrU9-51">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="F3W2nCUssthIL3QrlrU9-46" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="340" width="105" height="47" as="geometry" />
         </mxCell>
@@ -230,9 +227,6 @@
           <mxGeometry x="-0.0328" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="F3W2nCUssthIL3QrlrU9-51" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="213" width="105" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
