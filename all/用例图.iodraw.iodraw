@@ -84,43 +84,28 @@
         <mxCell id="02Lim3pxmdkSdYVyXieh-17" value="编辑上传素材" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2772" y="-2000" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="02Lim3pxmdkSdYVyXieh-18" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="02Lim3pxmdkSdYVyXieh-23" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-3842" y="-1675" as="targetPoint" />
-            <mxPoint x="-3825" y="-1580" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="02Lim3pxmdkSdYVyXieh-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="02Lim3pxmdkSdYVyXieh-20" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-3818.7" y="-1563.65" as="sourcePoint" />
-            <mxPoint x="-3698" y="-1555" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="02Lim3pxmdkSdYVyXieh-20" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3859" y="-1600" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="02Lim3pxmdkSdYVyXieh-21" value="" style="endArrow=none;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.908;entryY=0.229;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" parent="1" source="02Lim3pxmdkSdYVyXieh-26" target="02Lim3pxmdkSdYVyXieh-23" edge="1">
+        <mxCell id="02Lim3pxmdkSdYVyXieh-21" value="" style="endArrow=none;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" parent="1" source="02Lim3pxmdkSdYVyXieh-26" target="02Lim3pxmdkSdYVyXieh-20" edge="1">
           <mxGeometry x="0.1603" width="160" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="-3488" y="-1865" as="sourcePoint" />
-            <mxPoint x="-3598" y="-1695" as="targetPoint" />
+            <mxPoint x="-3607.2" y="-1738.5500000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="02Lim3pxmdkSdYVyXieh-22" value="" style="endArrow=none;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.986;entryY=0.382;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" parent="1" source="02Lim3pxmdkSdYVyXieh-27" target="02Lim3pxmdkSdYVyXieh-23" edge="1">
+        <mxCell id="02Lim3pxmdkSdYVyXieh-22" value="" style="endArrow=none;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.986;entryY=0.382;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" parent="1" source="02Lim3pxmdkSdYVyXieh-27" edge="1">
           <mxGeometry x="0.167" y="-5" width="160" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="-3498" y="-1770" as="sourcePoint" />
-            <mxPoint x="-3598.0000000000146" y="-1695" as="targetPoint" />
+            <mxPoint x="-3599.4" y="-1730.9" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="02Lim3pxmdkSdYVyXieh-23" value="素材管控" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-3698" y="-1750" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="02Lim3pxmdkSdYVyXieh-25" value="" style="endArrow=none;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.955;entryY=0.676;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" parent="1" source="02Lim3pxmdkSdYVyXieh-28" target="02Lim3pxmdkSdYVyXieh-23" edge="1">
+        <mxCell id="02Lim3pxmdkSdYVyXieh-25" value="" style="endArrow=none;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.955;entryY=0.676;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" parent="1" source="02Lim3pxmdkSdYVyXieh-28" edge="1">
           <mxGeometry x="0.1561" y="-5" width="160" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="-3512" y="-1665" as="sourcePoint" />
-            <mxPoint x="-3598.0000000000146" y="-1625" as="targetPoint" />
+            <mxPoint x="-3602.5" y="-1716.1999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="02Lim3pxmdkSdYVyXieh-26" value="浏览全部素材" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -161,12 +146,6 @@
         </mxCell>
         <mxCell id="02Lim3pxmdkSdYVyXieh-34" value="删除分类/专题" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3478" y="-1536" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="02Lim3pxmdkSdYVyXieh-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="02Lim3pxmdkSdYVyXieh-20" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-3824.6446609406726" y="-1557.322330470336" as="sourcePoint" />
-            <mxPoint x="-3698" y="-1409" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="02Lim3pxmdkSdYVyXieh-37" value="" style="endArrow=none;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" parent="1" source="02Lim3pxmdkSdYVyXieh-38" edge="1">
           <mxGeometry x="0.1628" y="-5" width="160" relative="1" as="geometry">
