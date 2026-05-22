@@ -16,7 +16,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rWZeK4EFvowcuqHQReUD-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="307.5" y="156" width="125" height="50" as="geometry" />
+          <mxGeometry x="307.5" y="168" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rWZeK4EFvowcuqHQReUD-7" value="待审核状态" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="307.5" y="644" width="124" height="60" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry x="306.5" y="756" width="135" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rWZeK4EFvowcuqHQReUD-25" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="311.5" y="862" width="125" height="50" as="geometry" />
+          <mxGeometry x="311.5" y="860" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rWZeK4EFvowcuqHQReUD-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
