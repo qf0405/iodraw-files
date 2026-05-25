@@ -11,7 +11,7 @@
           <mxGeometry x="100" y="560" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3uVMy3NrcEWDhjVdnPSF-3" value="家属用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="800" width="45" height="90" as="geometry" />
+          <mxGeometry x="97.5" y="860" width="45" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3uVMy3NrcEWDhjVdnPSF-7" value="&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;角色权限配置&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="10" width="110" height="50" as="geometry" />
@@ -31,7 +31,7 @@
         <mxCell id="3uVMy3NrcEWDhjVdnPSF-12" value="&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;老人信息档案管理&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="304" y="460" width="166" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3uVMy3NrcEWDhjVdnPSF-16" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3uVMy3NrcEWDhjVdnPSF-16" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px; white-space: nowrap; background-color: initial;&quot;&gt;老人健康状况查阅&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="304" y="880" width="156" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3uVMy3NrcEWDhjVdnPSF-17" value="&lt;span style=&quot;font-size: 16px; white-space: nowrap;&quot;&gt;老人基础信息查询&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
