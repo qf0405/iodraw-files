@@ -47,7 +47,7 @@
           <mxGeometry x="350" y="890" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3uVMy3NrcEWDhjVdnPSF-19" value="&lt;div&gt;角色权限配置&lt;/div&gt;&lt;div&gt;终端集中运维&lt;/div&gt;&lt;div&gt;数据备份与恢复&lt;/div&gt;&lt;div&gt;安全行为审计&lt;/div&gt;&lt;div&gt;系统整体管控&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="605" y="448" width="110" height="90" as="geometry" />
+          <mxGeometry x="620" y="90" width="110" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
